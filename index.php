@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Nahathai";
+echo "Nahathai Chernrungroj";
 ?>
 
 </body>
